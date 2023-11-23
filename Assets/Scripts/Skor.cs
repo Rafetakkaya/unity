@@ -10,7 +10,7 @@ public class Skor : MonoBehaviour
     public int skor = 0;
     public TextMeshPro scoreText;
     public TextMeshProUGUI scoreUI;
-    public int timer = 30;
+    public int timer = 20;
     public int hedefSayi = 2;
     public TextMeshProUGUI timerText, winFailText;
     public GameObject endPanel;
